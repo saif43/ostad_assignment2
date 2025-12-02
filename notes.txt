@@ -1,0 +1,2 @@
+Additional notes for the feature-update branch.
+- Added a notes file as part of the assignment demo.
